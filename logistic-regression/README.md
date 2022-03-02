@@ -9,5 +9,5 @@ are the *corporate customers* which constantly monitor the status of critical co
 of their production line. 
 
 # Showcase scenario
-To demonstrate the implementation of Logistic Regression we will use Kaggle 
-[database](https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification) built for Machine Predictive Maintenance Classification.
+To demonstrate the implementation of Logistic Regression for Machine Predictive Maintenance Classification we will use the following [dataset](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset)
+Extra information and analysis related to the above dataset can be found on the Kaggle [link](https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification)
