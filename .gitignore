@@ -1,5 +1,8 @@
-# To ignore virtual environments
+# To ignore virtual environments and configuration files
 venv*
+activate.sh
+check_venv.py
+ide
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
