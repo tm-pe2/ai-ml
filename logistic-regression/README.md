@@ -16,4 +16,5 @@ The dataset from the UCI and Kagle differ by the Type of Failure (UCI dataset) w
 # Required Libraries:
 ```console
 pip install numpy pandas imblearn seaborn xgboost
+pip install jupyter notebook
 ```
