@@ -4,6 +4,11 @@ activate.sh
 check_venv.py
 ide
 
+# Big datasets
+*.csv
+dataset/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
