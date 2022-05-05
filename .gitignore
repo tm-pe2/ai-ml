@@ -138,3 +138,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jupyter lab virtual documents
+*virtual_documents
